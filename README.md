@@ -1,5 +1,9 @@
 # STP 预览测量
 
+![车间现场使用手机预览 CAD 和查看包络尺寸](cad-usage-scene.png)
+
+*使用场景示意图，基于实际测量界面制作。*
+
 免费的 Android 离线 CAD 预览与测量工具，模型在手机本地处理。
 
 [直接下载 0.1.7 旧版覆盖安装 APK](https://github.com/LOR1TA/stp-preview-downloads/releases/download/v0.1.7/STP-Preview-0.1.7-legacy-upgrade.apk)
