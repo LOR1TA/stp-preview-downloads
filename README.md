@@ -2,7 +2,9 @@
 
 免费的 Android 离线 CAD 预览与测量工具，模型在手机本地处理。
 
-[前往版本下载页面](https://github.com/LOR1TA/stp-preview-downloads/releases)
+[直接下载 0.1.7 旧版覆盖安装 APK](https://github.com/LOR1TA/stp-preview-downloads/releases/download/v0.1.7/STP-Preview-0.1.7-legacy-upgrade.apk)
+
+[版本说明](https://github.com/LOR1TA/stp-preview-downloads/releases/tag/v0.1.7)
 
 支持 STEP/STP、IGES/IGS、STL、X_T，以及含可识别已保存显示网格的 SLDPRT。STEP/IGES 支持 B-Rep 测量，SLDPRT 显示网格的测量结果标明网格近似。SLDPRT 未知原始单位默认按米换算为毫米，可手动指定单位。
 
@@ -20,7 +22,7 @@
 
 ## 文件校验与验证状态
 
-文件名为 `STP预览测量_0.1.7_旧版覆盖安装.apk`，大小 82,628,310 字节。
+文件名为 `STP-Preview-0.1.7-legacy-upgrade.apk`，大小 82,628,310 字节。
 
 SHA-256 为 `AE0C707BCB0FB8B22D78BECCDE0D7F0EB09246B3F641378B6A071DA4C30F25F3`。
 
